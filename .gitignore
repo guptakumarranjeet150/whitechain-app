@@ -27,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -40,3 +39,4 @@ tsconfig.tsbuildinfo
 /playwright-report/
 /test-results/
 
+config.bat
